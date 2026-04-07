@@ -103,6 +103,12 @@ Stores feedback provided by trainers on client check-ins.
 
 ---
 
+## 📷 ER Diagram
+
+![Fitness Influencer Coaching Platform](./Fitness%20Influencer%20Coaching%20Platform.png)
+
+---
+
 ## 🎯 Design Highlights
 
 * ✅ **Normalized structure** with clear separation of concerns
@@ -121,13 +127,6 @@ Stores feedback provided by trainers on client check-ins.
 * Scheduling sessions and consultations
 * Tracking client fitness progress over time
 * Providing structured trainer feedback
-
----
-
-## 📷 Diagram
-
-> Add your ER diagram image here
-
 
 ---
 
